@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A [SMAPI](https://smapi.io/) mod for Stardew Valley that gives designated farmhands **host-level chat commands** — built for co-op farms running on an **always-on/dedicated server**, where the actual host isn't always the one logged in to handle things like kicking a disconnected player, adjusting the shared wallet, or renaming the dog.
+A [SMAPI](https://smapi.io/) mod for Stardew Valley that gives designated farmhands **host-level chat commands** — built for co-op farms running on an **always-on/dedicated server**, where the actual host isn't always the one logged in to handle things like kicking a disconnected player, adjusting the shared wallet, or renaming the pet.
 
 If you're hosting Stardew Valley on a cloud VM or dedicated box — for example with [puppy-stardew-server](https://github.com/AmigaMeow/puppy-stardew-server), a Dockerized Stardew Valley server with an always-on/always-online setup — so friends can drop in and out on their own schedule, FarmAdmin lets any trusted farmhand run admin actions from chat — no need to wait on the host.
 
