@@ -1,0 +1,10 @@
+{
+    "Name": "FarmAdmin",
+    "Author": "Loops",
+    "Version": "1.0.0",
+    "Description": "Lets designated farmhands run host-level commands from chat.",
+    "UniqueID": "Loops.FarmAdmin",
+    "EntryDll": "FarmAdmin.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
